@@ -1,0 +1,6 @@
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\bin\Debug\AMAPStoOracleFormat.exe.config
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\bin\Debug\AMAPStoOracleFormat.exe
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\bin\Debug\AMAPStoOracleFormat.pdb
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\obj\Debug\AMAPStoOracleFormat.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\obj\Debug\AMAPStoOracleFormat.exe
+c:\users\mark\documents\visual studio 2017\Projects\AMAPStoOracleFormat\AMAPStoOracleFormat\obj\Debug\AMAPStoOracleFormat.pdb
